@@ -1,5 +1,7 @@
 #Academia Backend Java CDMX
+
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
+
 #### Tabla de contenido
 * [Introducción a la Programación Orientada a objetos](#Introducción a la Programación Orientada a objetos)
 * [Introducción a Java SE](#Introducción a Java SE)
