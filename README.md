@@ -5,6 +5,7 @@ En este repositorio se almacenan las evidencias de los cursos de Platzi; los tem
 * [Introducción a Java SE](#Introducción-a-Java-SE)
 * [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE)
 * [Java SE Avanzado](#Java-SE-Avanzado)
+* [Fundamentos de Bases de Datos](#Fundamentos-de-Bases-de-Datos)
 
 ![java](http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg)
 ### Introducción a la Programación Orientada a Objetos
@@ -41,3 +42,16 @@ Java SE Avanzado explica un nuevo nivel de abstracción, y da consejos para tene
 4. Clases abstractas
 5. Persistencia de datos, usando una base de datos MySQL y JDBC
 6. Principios de Java Funcional (**Lambdas**)
+
+### Fundamentos de Bases de Datos
+En este curso se ven detalles desde la historia de las bases de datos, hasta su evulución implementando ramas de la inteligencia artificial, algunos temas importantes que se vieron son:
+1. DDL(CREATE, ALTER, DROP), DML, RDBMS (Sistema Gestor de Bases de Datos Relacionales)
+2. Diagrama ER, Normalización, Diagrama Físico
+3. Queries(SELECT, FROM, WHERE, JOIN, INNER JOIN, LEFT JOIN, RIGHT JOIN, IS NUL, HAVING, GRUOP BY, ORDER BY, GROUP_CONCAT)
+4. Queries anidadas (Nested queries)
+5. Bases de datos NO relacionales
+6. Sistemas administrados
+7. Firestore
+8. Principios de: Machine Learning, Big Data, Data Science, Data Mining, Data Warehouse, Business Intelligence
+
+
