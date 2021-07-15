@@ -1,8 +1,8 @@
 # Academia Backend Java CDMX
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
 #### Tabla de contenido
-:octopus: * [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub) 
-* [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos) :package:
+* [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub) :octopus:
+* [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos) 
 * [Introducción a Java SE](#Introducción-a-Java-SE) :pencil2:
 * [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE) :package:
 * [Java SE Avanzado](#Java-SE-Avanzado) :nerd_face:
@@ -28,7 +28,7 @@ Es un curso en el cual enseñan desde la creación de un repositorio, hasta coma
 
 Link al repositorio de prueba https://github.com/AldoValdezS/blogcursogit
 
-### Introducción a la Programación Orientada a Objetos :package:
+### Introducción a la Programación Orientada a Objetos 
 En este curso enseñan los pilares fundamentales de la Programación Orientada a Objetos:
 1. Abstracción
 2. Encapsulamiento
@@ -41,7 +41,7 @@ Además de mostrar el uso de POO en distintos lenguajes de programación: **Java
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/intropoo.png?raw=true" width=300/>
 </p>
 
-### Introducción a Java SE :pencil2:
+### Introducción a Java SE
 Muestra desde la historia de Java, hasta las funcionalidades básicas del lenguaje:
 1. Instalaciones para el entorno de desarrollo (IntelliJ)
 2. Creación de proyecto
@@ -53,7 +53,7 @@ Muestra desde la historia de Java, hasta las funcionalidades básicas del lengua
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/introjavase.png?raw=true" width=300/>
 </p>
 
-### Programación orientada a objetos con Java SE :package:
+### Programación orientada a objetos con Java SE 
 Este curso aplica POO en un proyecto que su principal función es agendar citas con un doctor o una enfermera usando Java Standard Edition.
 1. Análisis del problema
 2. UML (Diagrama de clases)
@@ -66,7 +66,7 @@ Este curso aplica POO en un proyecto que su principal función es agendar citas 
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/intropoo.png?raw=true" width=300/>
 </p>
 
-### Java SE Avanzado :nerd_face:
+### Java SE Avanzado
 Java SE Avanzado explica un nuevo nivel de abstracción, y da consejos para tener buenas prácticas de programación, con ayuda de un proyecto que simula a AmazonViewer:
 1. Clases anidadas 
 2. Interfaces y modificadores de acceso a sus métodos (**default** y **private**)
@@ -94,7 +94,7 @@ En este curso se ven detalles desde la historia de las bases de datos, hasta su 
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/baseddatos.png?raw=true" width=300/>
 </p>
 
-### Java SE Persistencia de Datos :memo:
+### Java SE Persistencia de Datos 
 En este curso aprendí conectar una base de datos a un proyecto en Java, además explica las bases para consumir API's públicas.
 1. CRUD en un proyecto que simula mensajes
 2. Instalación de dependencias
@@ -105,7 +105,7 @@ En este curso aprendí conectar una base de datos a un proyecto en Java, además
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/persistencia.png?raw=true" width=500/>
 </p>
 
-### Testing en Java Básico :beetle:
+### Testing en Java Básico 
 Se explica la importancia de realizar test a todos nuestros proyectos de programación, hasta la metodología TDD.
 1. Test unitarios, de integración y funcionales 
 2. Métodología de desarrollo TDD (Test-Driven-Development)
