@@ -84,6 +84,6 @@ Se explica la importancia de realizar test a todos nuestros proyectos de program
 2. Métodología de desarrollo TDD (Test-Driven-Development)
 3. Test con Mockito
 4. Tests automatizados
-
+![testing](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/testing.png?raw=true)
 
 
