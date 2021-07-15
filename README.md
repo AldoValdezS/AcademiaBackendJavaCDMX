@@ -12,7 +12,7 @@ En este repositorio se almacenan las evidencias de los cursos de Platzi; los tem
 
 <p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
-  Java Standard Edition
+  
 </p>
 
 ### Curso profesional de git y GitHub :octopus:
@@ -102,7 +102,7 @@ En este curso aprendí conectar una base de datos a un proyecto en Java, además
 4. Consumir datos de una API (The Cat API)
 
 <p align="center">
-  <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/persistencia.png?raw=true" width=300/>
+  <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/persistencia.png?raw=true" width=500/>
 </p>
 
 ### Testing en Java Básico :beetle:
@@ -113,7 +113,7 @@ Se explica la importancia de realizar test a todos nuestros proyectos de program
 4. Tests automatizados
 
 <p align="center">
-  <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/testing.png?raw=true" width=300/>
+  <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/testing.png?raw=true" width=500/>
 </p>
 
 ### Autor :adult:
