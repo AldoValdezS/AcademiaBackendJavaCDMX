@@ -101,4 +101,6 @@ Se explica la importancia de realizar test a todos nuestros proyectos de program
 
 ![testing](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/testing.png?raw=true)
 
-
+### Autor
+[Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales.
+*Con apoyo de Accenture*
