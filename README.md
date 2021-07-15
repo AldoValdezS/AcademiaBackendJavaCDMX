@@ -2,13 +2,13 @@
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
 #### Tabla de contenido
 * [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub) :octopus:
-* [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos)
-* [Introducción a Java SE](#Introducción-a-Java-SE)
-* [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE)
-* [Java SE Avanzado](#Java-SE-Avanzado)
-* [Fundamentos de Bases de Datos](#Fundamentos-de-Bases-de-Datos)
-* [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos)
-* [Testing en Java Básico](#Testing-en-Java-Básico)
+* [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos) :package:
+* [Introducción a Java SE](#Introducción-a-Java-SE) :pencil2:
+* [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE) :package:
+* [Java SE Avanzado](#Java-SE-Avanzado) :nerd_face:
+* [Fundamentos de Bases de Datos](#Fundamentos-de-Bases-de-Datos) :dolphin:
+* [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos) :memo:
+* [Testing en Java Básico](#Testing-en-Java-Básico) :beetle:
 
 <p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
@@ -28,7 +28,7 @@ Es un curso en el cual enseñan desde la creación de un repositorio, hasta coma
 
 Link al repositorio de prueba https://github.com/AldoValdezS/blogcursogit
 
-### Introducción a la Programación Orientada a Objetos
+### Introducción a la Programación Orientada a Objetos :package:
 En este curso enseñan los pilares fundamentales de la Programación Orientada a Objetos:
 1. Abstracción
 2. Encapsulamiento
@@ -41,7 +41,7 @@ Además de mostrar el uso de POO en distintos lenguajes de programación: **Java
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/intropoo.png?raw=true" width=300/>
 </p>
 
-### Introducción a Java SE
+### Introducción a Java SE :pencil2:
 Muestra desde la historia de Java, hasta las funcionalidades básicas del lenguaje:
 1. Instalaciones para el entorno de desarrollo (IntelliJ)
 2. Creación de proyecto
@@ -53,7 +53,7 @@ Muestra desde la historia de Java, hasta las funcionalidades básicas del lengua
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/introjavase.png?raw=true" width=300/>
 </p>
 
-### Programación orientada a objetos con Java SE
+### Programación orientada a objetos con Java SE :package:
 Este curso aplica POO en un proyecto que su principal función es agendar citas con un doctor o una enfermera usando Java Standard Edition.
 1. Análisis del problema
 2. UML (Diagrama de clases)
@@ -66,7 +66,7 @@ Este curso aplica POO en un proyecto que su principal función es agendar citas 
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/intropoo.png?raw=true" width=300/>
 </p>
 
-### Java SE Avanzado
+### Java SE Avanzado :nerd_face:
 Java SE Avanzado explica un nuevo nivel de abstracción, y da consejos para tener buenas prácticas de programación, con ayuda de un proyecto que simula a AmazonViewer:
 1. Clases anidadas 
 2. Interfaces y modificadores de acceso a sus métodos (**default** y **private**)
@@ -94,7 +94,7 @@ En este curso se ven detalles desde la historia de las bases de datos, hasta su 
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/baseddatos.png?raw=true" width=300/>
 </p>
 
-### Java SE Persistencia de Datos
+### Java SE Persistencia de Datos :memo:
 En este curso aprendí conectar una base de datos a un proyecto en Java, además explica las bases para consumir API's públicas.
 1. CRUD en un proyecto que simula mensajes
 2. Instalación de dependencias
@@ -105,7 +105,7 @@ En este curso aprendí conectar una base de datos a un proyecto en Java, además
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/persistencia.png?raw=true" width=300/>
 </p>
 
-### Testing en Java Básico
+### Testing en Java Básico :beetle:
 Se explica la importancia de realizar test a todos nuestros proyectos de programación, hasta la metodología TDD.
 1. Test unitarios, de integración y funcionales 
 2. Métodología de desarrollo TDD (Test-Driven-Development)
@@ -116,7 +116,7 @@ Se explica la importancia de realizar test a todos nuestros proyectos de program
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/testing.png?raw=true" width=300/>
 </p>
 
-### Autor
-[Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales.
+### Autor :adult:
+[Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales. :computer:
 
-*Con apoyo de Accenture.*
+*Con apoyo de Accenture.* :office:
