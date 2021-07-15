@@ -1,7 +1,7 @@
 # Academia Backend Java CDMX
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
 #### Tabla de contenido
-* [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub)
+* [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub) :octopus:
 * [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos)
 * [Introducción a Java SE](#Introducción-a-Java-SE)
 * [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE)
@@ -10,11 +10,12 @@ En este repositorio se almacenan las evidencias de los cursos de Platzi; los tem
 * [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos)
 * [Testing en Java Básico](#Testing-en-Java-Básico)
 
-<p align="center">
+<p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
+  Java Standard Edition
 </p>
 
-### Curso profesional de git y GitHub
+### Curso profesional de git y GitHub :octopus:
 Es un curso en el cual enseñan desde la creación de un repositorio, hasta comandos avanzados de git y buenas prácticas de programación para documentar correctamente.
 1. Crear repositorios
 2. Commits
