@@ -103,4 +103,5 @@ Se explica la importancia de realizar test a todos nuestros proyectos de program
 
 ### Autor
 [Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales.
-*Con apoyo de Accenture*
+
+*Con apoyo de Accenture.*
