@@ -33,6 +33,8 @@ En este curso enseñan los pilares fundamentales de la Programación Orientada a
 4. Polimorfismo
 
 Además de mostrar el uso de POO en distintos lenguajes de programación: **Java, JavaScript, PHP y Python.**
+![intropoo](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/intropoo.png?raw=true)
+
 
 ### Introducción a Java SE
 Muestra desde la historia de Java, hasta las funcionalidades básicas del lenguaje:
@@ -41,6 +43,8 @@ Muestra desde la historia de Java, hasta las funcionalidades básicas del lengua
 3. Declaración de variables
 4. Condicionales
 5. Ciclos (for, while, do-while)
+![introjavase](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/introjavase.png?raw=true)
+
 
 ### Programación orientada a objetos con Java SE
 Este curso aplica POO en un proyecto que su principal función es agendar citas con un doctor o una enfermera usando Java Standard Edition.
@@ -50,6 +54,7 @@ Este curso aplica POO en un proyecto que su principal función es agendar citas 
 4. Declaración de clases y métodos
 5. Uso de ArrayList
 6. uso de Map
+![poo](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/intropoo.png?raw=true)
 
 ### Java SE Avanzado
 Java SE Avanzado explica un nuevo nivel de abstracción, y da consejos para tener buenas prácticas de programación, con ayuda de un proyecto que simula a AmazonViewer:
@@ -59,6 +64,7 @@ Java SE Avanzado explica un nuevo nivel de abstracción, y da consejos para tene
 4. Clases abstractas
 5. Persistencia de datos, usando una base de datos MySQL y JDBC
 6. Principios de Java Funcional (**Lambdas**)
+![javaseavanzado](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/javaseavanzaso.png?raw=true)
 
 ### Fundamentos de Bases de Datos
 En este curso se ven detalles desde la historia de las bases de datos, hasta su evulución implementando ramas de la inteligencia artificial, algunos temas importantes que se vieron son:
@@ -70,6 +76,7 @@ En este curso se ven detalles desde la historia de las bases de datos, hasta su 
 6. Sistemas administrados
 7. Firestore
 8. Principios de: Machine Learning, Big Data, Data Science, Data Mining, Data Warehouse, Business Intelligence
+![fundamentosbddatos](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/baseddatos.png?raw=true)
 
 ### Java SE Persistencia de Datos
 En este curso aprendí conectar una base de datos a un proyecto en Java, además explica las bases para consumir API's públicas.
@@ -77,6 +84,7 @@ En este curso aprendí conectar una base de datos a un proyecto en Java, además
 2. Instalación de dependencias
 3. API's públicas
 4. Consumir datos de una API (The Cat API)
+![persistencia](https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/persistencia.png?raw=true)
 
 ### Testing en Java Básico
 Se explica la importancia de realizar test a todos nuestros proyectos de programación, hasta la metodología TDD.
