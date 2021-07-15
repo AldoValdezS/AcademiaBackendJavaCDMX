@@ -2,7 +2,7 @@
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
 #### Tabla de contenido
 * [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub) :octopus:
-* [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos) 
+* [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos) :package:
 * [Introducción a Java SE](#Introducción-a-Java-SE) :pencil2:
 * [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE) :package:
 * [Java SE Avanzado](#Java-SE-Avanzado) :nerd_face:
