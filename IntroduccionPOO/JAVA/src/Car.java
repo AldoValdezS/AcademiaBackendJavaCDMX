@@ -10,8 +10,6 @@ public class Car {
         this.license = license;
         this.driver = driver;
     }
-
-
     void printDataCar(){
         if(passenger!=null){
 
