@@ -1,13 +1,30 @@
 # Academia Backend Java CDMX
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
 #### Tabla de contenido
+* [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub)
 * [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos)
 * [Introducción a Java SE](#Introducción-a-Java-SE)
 * [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE)
 * [Java SE Avanzado](#Java-SE-Avanzado)
 * [Fundamentos de Bases de Datos](#Fundamentos-de-Bases-de-Datos)
+* [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos)
+* [Testing en Java Básico](#Testing-en-Java-Básico)
 
 ![java](http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg)
+
+### Curso profesional de git y GitHub
+Es un curso en el cual enseñan desde la creación de un repositorio, hasta comandos avanzados de git y buenas prácticas de programación para documentar correctamente.
+1. Crear repositorios
+2. Commits
+3. Creación de repositorios remotos
+4. Seguridad con creación de llaves públicas y privadas ssh
+5. Ramas de trabajo (pull, push, merge)
+6. Buenas prácticas de documentación
+7. Pull request, Fork
+8. Edición del archivo Readme
+
+Link al repositorio de prueba https://github.com/AldoValdezS/blogcursogit
+
 ### Introducción a la Programación Orientada a Objetos
 En este curso enseñan los pilares fundamentales de la Programación Orientada a Objetos:
 1. Abstracción
@@ -53,5 +70,20 @@ En este curso se ven detalles desde la historia de las bases de datos, hasta su 
 6. Sistemas administrados
 7. Firestore
 8. Principios de: Machine Learning, Big Data, Data Science, Data Mining, Data Warehouse, Business Intelligence
+
+### Java SE Persistencia de Datos
+En este curso aprendí conectar una base de datos a un proyecto en Java, además explica las bases para consumir API's públicas.
+1. CRUD en un proyecto que simula mensajes
+2. Instalación de dependencias
+3. API's públicas
+4. Consumir datos de una API (The Cat API)
+
+### Testing en Java Básico
+Se explica la importancia de realizar test a todos nuestros proyectos de programación, hasta la metodología TDD.
+1. Test unitarios, de integración y funcionales 
+2. Métodología de desarrollo TDD (Test-Driven-Development)
+3. Test con Mockito
+4. Tests automatizados
+
 
 
