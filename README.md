@@ -1,6 +1,6 @@
 # Academia Backend Java CDMX
-En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta pruebas básicas en Java. 
-Para estos cursos se usó *java 8 y java 11*.
+En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta testing básico en Java. 
+Para estos cursos se usó *Java 8 y Java 11*.
 #### Tabla de contenido
 * [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub) :octopus:
 * [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos) :package:
