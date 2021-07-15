@@ -1,7 +1,7 @@
 # Academia Backend Java CDMX
 En este repositorio se almacenan las evidencias de los cursos de Platzi; los temas abarcados en estos cursos van desde el uso de la terminal con Linux, hasta el manejo de Java avanzado (Spring).
 #### Tabla de contenido
-* [Curso profesional de git y GitHub](https://github.com/AldoValdezS/blogcursogit)
+* [Curso profesional de git y GitHub](#Curso-profesional-de-git-y-GitHub)
 * [Introducción a la Programación Orientada a objetos](#Introducción-a-la-Programación-Orientada-a-objetos)
 * [Introducción a Java SE](#Introducción-a-Java-SE)
 * [Programación orientada a objetos con Java SE](#Programación-orientada-a-objetos-con-Java-SE)
@@ -22,6 +22,8 @@ Es un curso en el cual enseñan desde la creación de un repositorio, hasta coma
 6. Buenas prácticas de documentación
 7. Pull request, Fork
 8. Edición del archivo Readme
+
+Link al repositorio de prueba https://github.com/AldoValdezS/blogcursogit
 
 ### Introducción a la Programación Orientada a Objetos
 En este curso enseñan los pilares fundamentales de la Programación Orientada a Objetos:
