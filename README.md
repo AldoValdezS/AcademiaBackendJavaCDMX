@@ -10,7 +10,7 @@ Para estos cursos se usó *Java 8 y Java 11*.
 * [Fundamentos de Bases de Datos](#Fundamentos-de-Bases-de-Datos) :dolphin:
 * [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos) :memo:
 * [Testing en Java Básico](#Testing-en-Java-Básico) :beetle:
-* [Java Funcional](#Java-Funcoinal) :arrow_right:
+* [Java Funcional](#Java-Funcional) :arrow_right:
 
 <p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
