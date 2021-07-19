@@ -10,6 +10,7 @@ Para estos cursos se usó *Java 8 y Java 11*.
 * [Fundamentos de Bases de Datos](#Fundamentos-de-Bases-de-Datos) :dolphin:
 * [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos) :memo:
 * [Testing en Java Básico](#Testing-en-Java-Básico) :beetle:
+* [Java Funcional](#Java-Funcoinal) :arrow_right:
 
 <p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
@@ -115,6 +116,19 @@ Se explica la importancia de realizar test a todos nuestros proyectos de program
 
 <p align="center">
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/testing.png?raw=true" width=500/>
+</p>
+
+### Java Funcional
+En este curso explica la importancia de Java Funcoinal para hacer que nuestro código sea más limpio y elegante. Además de aprender a crear funciones con tipos de datos personalizados utilizando la inferencia de tipos del compilador.
+1. Lambdas 
+2. Funciones puras e impuras
+3. Streams
+4. Optionals, Predicate, Consumer, Supplier
+5. SAM Interface (Single Abstrac Method)
+6. Streams y Chaining
+
+<p align="center">
+  <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/funcional.png?raw=true" width=500/>
 </p>
 
 ### Autor :adult:
