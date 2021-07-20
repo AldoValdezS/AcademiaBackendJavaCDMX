@@ -11,6 +11,7 @@ Para estos cursos se usó *Java 8 y Java 11*.
 * [Java SE Persistencia de Datos](#Java-SE-Persistencia-de-Datos) :memo:
 * [Testing en Java Básico](#Testing-en-Java-Básico) :beetle:
 * [Java Funcional](#Java-Funcional) :arrow_right:
+* [Java Spring](#Java-Spring) :leaves:
 
 <p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
@@ -130,6 +131,21 @@ En este curso explica la importancia de Java Funcoinal para hacer que nuestro c�
 <p align="center">
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/funcional.png?raw=true" width=500/>
 </p>
+
+### Java Spring
+El curso muestra cómo crear una API con Spring Boot, va desde el diseño de la base de datos hasta el despliegue de la API en Heroku. Algunos temas relevantes fueron:
+1. JPA
+2. Query Methods
+3. Anotaciones Spring (@)
+4. Inyección de dependencias
+5. Respuestas HTTP
+6. Documentación con Swagger
+7. Spring Security
+
+<p align="center">
+  <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/spring.png?raw=true" width=500/>
+</p>
+
 
 ### Autor :adult:
 [Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales. :computer:
