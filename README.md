@@ -12,6 +12,7 @@ Para estos cursos se usó *Java 8 y Java 11*.
 * [Testing en Java Básico](#Testing-en-Java-Básico) :beetle:
 * [Java Funcional](#Java-Funcional) :arrow_right:
 * [Java Spring](#Java-Spring) :leaves:
+* [Ejercicios Java](#Ejercicios-Java) :writing_hand:
 
 <p align="center" color="blue">
   <img src="http://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/blogs/javalogo.jpg" width=300/>
@@ -146,6 +147,9 @@ El curso muestra cómo crear una API con Spring Boot, va desde el diseño de la 
   <img src="https://github.com/AldoValdezS/AcademiaBackendJavaCDMX/blob/main/images/spring.png?raw=true" width=500/>
 </p>
 
+### Ejercicios Java
+Algunos ejercicios propuesto por el instructor de Accenture.
+1. Constructores (super();)
 
 ### Autor :adult:
 [Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales. :computer:
