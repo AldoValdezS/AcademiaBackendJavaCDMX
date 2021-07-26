@@ -150,6 +150,9 @@ El curso muestra cómo crear una API con Spring Boot, va desde el diseño de la 
 ### Ejercicios Java
 Algunos ejercicios propuesto por el instructor de Accenture.
 1. Constructores (super();)
+2. Operadores aritméticos compuestos
+3. Operador postincremente y preincremento
+4. Método equals
 
 ### Autor :adult:
 [Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales. :computer:
