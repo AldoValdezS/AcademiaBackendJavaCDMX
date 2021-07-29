@@ -14,7 +14,7 @@ class Student {
         }
 //        Comprobar si son de la misma clase
         if (obj instanceof Student) {
-//        Repornar un booleano si sus atributos son iguales, pero primero castear el obj a la clase Student.
+//        Retornar un booleano si sus atributos son iguales, pero primero castear el obj a la clase Student.
             return this.id == ((Student) obj).id;
         }
 
