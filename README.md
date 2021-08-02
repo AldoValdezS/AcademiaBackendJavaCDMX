@@ -153,6 +153,7 @@ Algunos ejercicios propuesto por el instructor de Accenture.
 2. Operadores aritméticos compuestos
 3. Operador postincremente y preincremento
 4. Método equals
+5. Flujo de control y Excepciones
 
 ### Autor :adult:
 [Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales. :computer:
