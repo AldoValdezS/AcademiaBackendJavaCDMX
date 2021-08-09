@@ -154,6 +154,7 @@ Algunos ejercicios propuesto por el instructor de Accenture.
 3. Operador postincremente y preincremento
 4. Método equals
 5. Flujo de control y Excepciones
+6. Strings
 
 ### Autor :adult:
 [Aldo Valdez Solis](https://github.com/AldoValdezS), recién egresado de la carrera de Ingeniería en Sistemas Computacionales. :computer:
